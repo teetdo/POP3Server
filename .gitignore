@@ -1,0 +1,20 @@
+# Build outputs
+obj/
+bin/Debug/*.exe
+bin/Debug/*.dll
+bin/Debug/*.ilk
+bin/Debug/*.pdb
+bin/Debug/*.o
+bin/Debug/*.obj
+bin/Release/*
+
+# IDE/editor files
+.vscode/
+.idea/
+*.cbp.user
+*.layout.save
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
